@@ -1,0 +1,121 @@
+.eight {
+
+    height: 150px; 
+    background-color: gray;
+    /* border: .5px solid gray; */
+    text-align: center;
+    /* margin: 5px ; */
+    /* border-radius: 5px; */
+}
+
+
+/*.gap {
+    display: flex;
+}
+*/
+.col1 {
+    background-color:rgb(255, 153, 0);
+    color: white;
+    height: 100vh;
+    
+}
+
+.col2 {
+    background-color: rgb(160, 95, 133);
+    color: white;
+    height: 100vh;
+
+}
+
+.nested-col-1 {
+    background-color: teal;
+    height: 80vh;
+
+}
+.nested-col-1-1 {
+    background-color: violet;
+    height: 60vh;
+}
+.nested-col-1-2 {
+    background-color: darkmagenta;
+    height: 60vh;
+}
+
+
+
+.nested-col-2 {
+    background-color: tomato;
+    height: 80vh;
+}
+.nested-col-2-1 {
+    background-color: rgb(130, 213, 238);
+    height: 60vh;
+}
+.nested-col-2-2 {
+    background-color: rgb(238, 161, 130);
+    height: 60vh;
+}
+
+
+.nested-col-3 {
+    background-color: yellowgreen;
+    height: 80vh;
+
+}
+.nested-col-3-1 {
+    background-color: rgb(136, 21, 6);
+    height: 60vh;
+}
+.nested-col-3-2 {
+    background-color: rgb(238, 130, 130);
+    height: 60vh;
+}
+.nested-col-4 {
+    background-color: turquoise;
+    height: 80vh;
+
+}
+.nested-col-4-1 {
+    background-color: rgb(130, 141, 238);
+    height: 60vh;
+}
+.nested-col-4-2 {
+    background-color: rgb(238, 130, 233);
+    height: 60vh;
+}
+
+.OFFset {
+    background-color: yellowgreen;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.UPset {
+    background-color: rgb(205, 50, 179);
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.UNset {
+    background-color: rgb(205, 50, 58);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.MIDset {
+    background-color: rgb(50, 156, 205);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pic {
+    
+    height: 495px;
+    margin: 0px 10px;
+}
+
+.pict {
+    height: 500px;
+    border: 1px solid grey;
+}

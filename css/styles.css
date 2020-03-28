@@ -1,0 +1,35 @@
+.eight {
+
+    height: 150px;
+    background-color: gray;
+    border: .5px solid gray;
+    border-radius: 5px;
+}
+
+.eli :hover {
+    background-color: darksalmon;
+}
+
+.top {
+    background-color: gray;
+    text-align: right;
+    color: #ffffff;
+}
+
+.Numbers {
+    text-align: center;
+    background-color: rgb(206, 203, 203);
+    border: 1px solid grey;
+}
+
+.First {
+    border-left: none;
+}
+
+.Orange{
+    background-color: rgb(241, 113, 66);
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid grey;
+    border-right: none;
+}

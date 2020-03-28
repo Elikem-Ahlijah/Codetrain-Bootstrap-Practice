@@ -1,0 +1,14 @@
+ /*.eight {
+
+    width: 100%;
+    border: .5px solid gray;
+    border-radius: 5px; 
+}*/
+
+.eli td :hover {
+    background-color: darksalmon;
+}
+
+img {
+    width: 100%;
+}
